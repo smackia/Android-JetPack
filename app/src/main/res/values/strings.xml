@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="activity_title">Entry Form</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="enter_phone">Enter Your Phone no.</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="submit">Submit</string>
+    <string name="go_back">Go Back</string>
+    <string name="auto_fill">Auto Fill</string>
+    <string name="filter_option">Filter Option</string>
+    <string name="by_gender">By Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Name">Name:</string>
+    <string name="title_activity_bottom_sheet_dialog">BottomSheetDialog</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="close">Close</string>
+    <string name="id">Id:</string>
+    <string name="email">Email:</string>
+    <string name="gender">Gender:</string>
+    <string name="status">Status:</string>
+</resources>
