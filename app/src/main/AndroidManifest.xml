@@ -12,10 +12,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
-            android:name=".BottomSheet.BottomSheetDialog"
-            android:exported="false"
-            android:label="@string/title_activity_bottom_sheet_dialog" />
-        <activity
             android:name=".Fragment.FragmentActivity"
             android:exported="false" />
         <activity
